@@ -1,0 +1,7 @@
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\bin\Debug\readcsv.exe.config
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\bin\Debug\readcsv.exe
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\bin\Debug\readcsv.pdb
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\obj\Debug\readcsv.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\obj\Debug\readcsv.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\obj\Debug\readcsv.exe
+C:\Users\kalpit.jindal\source\repos\readcsv\readcsv\obj\Debug\readcsv.pdb

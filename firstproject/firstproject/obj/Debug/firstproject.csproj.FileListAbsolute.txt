@@ -1,0 +1,7 @@
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\obj\Debug\firstproject.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\obj\Debug\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\bin\Debug\firstproject.exe.config
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\bin\Debug\firstproject.exe
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\bin\Debug\firstproject.pdb
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\obj\Debug\firstproject.exe
+C:\Users\kalpit.jindal\source\repos\firstproject\firstproject\obj\Debug\firstproject.pdb

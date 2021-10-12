@@ -1,0 +1,7 @@
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\bin\Debug\readxml.exe.config
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\bin\Debug\readxml.exe
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\bin\Debug\readxml.pdb
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\obj\Debug\readxml.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\obj\Debug\readxml.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\obj\Debug\readxml.exe
+C:\Users\kalpit.jindal\source\repos\readxml\readxml\obj\Debug\readxml.pdb

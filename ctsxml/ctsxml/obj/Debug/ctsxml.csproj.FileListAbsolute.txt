@@ -1,0 +1,10 @@
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\bin\Debug\ctsxml.exe.config
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\bin\Debug\ctsxml.exe
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\bin\Debug\ctsxml.pdb
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.Form1.resources
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.Properties.Resources.resources
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.csproj.GenerateResource.cache
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.exe
+C:\Users\kalpit.jindal\source\repos\ctsxml\ctsxml\obj\Debug\ctsxml.pdb

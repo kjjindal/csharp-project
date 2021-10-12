@@ -1,0 +1,10 @@
+C:\Users\kalpit.jindal\source\repos\cts\cts\bin\Debug\cts.exe.config
+C:\Users\kalpit.jindal\source\repos\cts\cts\bin\Debug\cts.exe
+C:\Users\kalpit.jindal\source\repos\cts\cts\bin\Debug\cts.pdb
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.Form1.resources
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.Properties.Resources.resources
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.csproj.GenerateResource.cache
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.exe
+C:\Users\kalpit.jindal\source\repos\cts\cts\obj\Debug\cts.pdb
