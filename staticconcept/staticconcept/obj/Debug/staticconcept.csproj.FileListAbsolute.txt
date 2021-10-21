@@ -1,0 +1,7 @@
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\obj\Debug\staticconcept.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\obj\Debug\staticconcept.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\bin\Debug\staticconcept.exe.config
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\bin\Debug\staticconcept.exe
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\bin\Debug\staticconcept.pdb
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\obj\Debug\staticconcept.exe
+C:\Users\kalpit.jindal\source\repos\staticconcept\staticconcept\obj\Debug\staticconcept.pdb
