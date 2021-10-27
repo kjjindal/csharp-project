@@ -1,0 +1,6 @@
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\bin\Debug\chequeDetails.dll
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\bin\Debug\chequeDetails.pdb
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\obj\Debug\chequeDetails.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\obj\Debug\chequeDetails.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\obj\Debug\chequeDetails.dll
+C:\Users\kalpit.jindal\source\repos\chequeDetails\chequeDetails\obj\Debug\chequeDetails.pdb
