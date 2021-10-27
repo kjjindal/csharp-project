@@ -1,0 +1,10 @@
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe.config
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.pdb
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.csproj.AssemblyReference.cache
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.ProjectInstaller.resources
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.Service1.resources
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.csproj.GenerateResource.cache
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.exe
+C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\obj\Debug\stopmicrosoft.pdb

@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.InstallLog
+   assemblypath = C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe
+   logtoconsole = 
+Installing service stopmicrosoft...
+Service stopmicrosoft has been successfully installed.
+Creating EventLog source stopmicrosoft in log Application...
+Committing assembly 'C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.InstallLog
+   assemblypath = C:\Users\kalpit.jindal\source\repos\stopmicrosoft\stopmicrosoft\bin\Debug\stopmicrosoft.exe
+   logtoconsole = 
